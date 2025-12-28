@@ -35,3 +35,4 @@ logfile
 /dashboard/data/organizations/*.json
 /dashboard/data/history/*.json
 /dashboard/data/*.json
+dashboard/package-lock.json
